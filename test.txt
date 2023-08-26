@@ -1,5 +1,0 @@
-Ini Percobaaan remote tanpa script/function di git 
-Mencoba menambahkan list
-- satu
-- dua 
-- tiga
